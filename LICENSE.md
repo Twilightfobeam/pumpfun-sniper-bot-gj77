@@ -1,4 +1,4 @@
-# 
+# MEV-optimized Automation for pump.fun sniper bot | liquidity-pool-analysis & auto-buy is the best pump.fun sniper bot, featuring liquidity-pool-analysis and auto-buy. Fast, smart,
 
 
 
